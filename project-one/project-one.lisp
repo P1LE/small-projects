@@ -4,4 +4,5 @@
 
 
 (defun poo ()
+  "What the fuck"
   (format t "Poop."))
